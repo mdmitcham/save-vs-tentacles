@@ -1,0 +1,30 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>Save vs Tentacles</h1>
+			<p>
+				Tabletop RPG design, campaign design, and game philosophy — theory and practice,
+				not reviews or homebrew dumped in isolation. The through-line: mechanics exist to
+				shape player behavior and create interesting decisions.
+			</p>
+			<p>
+				Includes the ongoing <em>Sailing Under Wine-Dark Skies</em> series — a play-by-play
+				of turning <em>Mythic Bastionland</em> into a Greek myth hack, one archetype at a time.
+			</p>
+			<p><a href="/blog/">Read the posts →</a></p>
+		</main>
+		<Footer />
+	</body>
+</html>
