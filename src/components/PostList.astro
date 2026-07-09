@@ -1,0 +1,88 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import FormattedDate from './FormattedDate.astro';
+import { slugify } from '../lib/taxonomy';
+
+interface Props {
+	posts: CollectionEntry<'blog'>[];
+}
+
+const { posts } = Astro.props;
+---
+
+<ul class="post-list">
+	{
+		posts.map((post) => (
+			<li>
+				<a class="title" href={`/blog/${post.id}/`}>
+					{post.data.title}
+				</a>
+				<div class="meta">
+					<FormattedDate date={post.data.pubDate} />
+					{post.data.series && (
+						<>
+							{' · '}
+							<a class="series" href={`/series/${slugify(post.data.series)}/`}>
+								{post.data.series}
+							</a>
+						</>
+					)}
+					{post.data.tags && post.data.tags.length > 0 && (
+						<span class="tags">
+							{post.data.tags.map((tag) => (
+								<a class="tag" href={`/tags/${slugify(tag)}/`}>
+									#{tag}
+								</a>
+							))}
+						</span>
+					)}
+				</div>
+			</li>
+		))
+	}
+</ul>
+
+<style>
+	.post-list {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	.post-list li {
+		padding: 1em 0;
+		border-bottom: 1px solid rgb(var(--gray-light));
+	}
+	.post-list li:first-child {
+		padding-top: 0;
+	}
+	.title {
+		display: block;
+		font-size: 1.25em;
+		font-weight: 700;
+		color: rgb(var(--black));
+		text-decoration: none;
+	}
+	.title:hover {
+		color: rgb(var(--accent));
+	}
+	.meta {
+		margin-top: 0.25em;
+		color: rgb(var(--gray));
+		font-size: 0.9em;
+	}
+	.series {
+		color: rgb(var(--gray));
+	}
+	.tags {
+		margin-left: 0.5em;
+	}
+	.tag {
+		color: rgb(var(--gray));
+		text-decoration: none;
+		margin-right: 0.5em;
+	}
+	.tag:hover,
+	.series:hover {
+		color: rgb(var(--accent));
+	}
+</style>

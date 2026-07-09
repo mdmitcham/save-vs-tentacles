@@ -1,0 +1,43 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import Header from '../../components/Header.astro';
+import PostList from '../../components/PostList.astro';
+import { SITE_TITLE } from '../../consts';
+import { getAllSeries, getSortedPosts, slugify } from '../../lib/taxonomy';
+
+export async function getStaticPaths() {
+	const series = await getAllSeries();
+	return series.map(({ series, slug }) => ({
+		params: { series: slug },
+		props: { series },
+	}));
+}
+
+const { series } = Astro.props;
+const posts = (await getSortedPosts()).filter((post) => slugify(post.data.series ?? '') === slugify(series));
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={`${series} — ${SITE_TITLE}`} description={`Posts in the ${series} series.`} />
+	</head>
+	<body>
+		<Header />
+		<main class="prose">
+			<h1>{series}</h1>
+			<PostList posts={posts} />
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	.prose {
+		width: 720px;
+		max-width: calc(100% - 2em);
+		margin: auto;
+		padding: 1em;
+	}
+</style>

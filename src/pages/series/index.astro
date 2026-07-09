@@ -1,0 +1,64 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import Header from '../../components/Header.astro';
+import { SITE_TITLE } from '../../consts';
+import { getAllSeries } from '../../lib/taxonomy';
+
+const series = await getAllSeries();
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={`Series — ${SITE_TITLE}`} description="All series." />
+	</head>
+	<body>
+		<Header />
+		<main class="prose">
+			<h1>Series</h1>
+			<ul class="series-list">
+				{
+					series.map(({ series, slug, count }) => (
+						<li>
+							<a href={`/series/${slug}/`}>{series}</a>{' '}
+							<span class="count">
+								({count} post{count === 1 ? '' : 's'})
+							</span>
+						</li>
+					))
+				}
+			</ul>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	.prose {
+		width: 720px;
+		max-width: calc(100% - 2em);
+		margin: auto;
+		padding: 1em;
+	}
+	.series-list {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	.series-list li {
+		padding: 0.5em 0;
+	}
+	.series-list a {
+		color: rgb(var(--black));
+		font-size: 1.2em;
+		text-decoration: none;
+	}
+	.series-list a:hover {
+		color: rgb(var(--accent));
+	}
+	.count {
+		color: rgb(var(--gray));
+		font-size: 0.9em;
+	}
+</style>
