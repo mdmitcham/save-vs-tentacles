@@ -1,7 +1,7 @@
 ---
-title: 'The Path of Magic and the Path of Prophecy'
-description: 'Ripping feats out from under the sorceress and the prophet and giving them their own thing instead — the Path of Mageia''s spell list and Charm rules, the Path of Prophecy''s Visions, and the Path of Command''s deliberately untrustworthy warband.'
-pubDate: 'Jul 09 2026'
+title: 'The Path of Magic AND the Path of Prophecy AND the Path of Command'
+description: 'There is more to Homeric epic than the shedding of blood. Ripping feats out from under the sorceress and the prophet and giving them their own thing instead — the Path of Mageia''s spell list and Charm rules, the Path of Prophecy''s Visions, and the Path of Command''s deliberately untrustworthy warband.'
+pubDate: 'Jul 18 2026'
 series: 'Sailing Under Wine-Dark Skies'
 tags: ['campaign-design', 'mythic-bastionland', 'osr', 'magic', 'mechanics']
 ---
@@ -10,7 +10,7 @@ There is more to Homeric epic than the shedding of blood.
 
 ## Sorcery. Prophecy. Leadership.
 
-You don't want to play a sorceress who can polymorph enemeis into resentful yet  compliant pigs? You don't want to shriek prophecy at the disbelieving masses and be run out of town? Or lead a nearly incontrollable warband which is at turns murderous and stupid? Fuck you.
+You don't want to play a sorceress who can polymorph enemies into resentful yet  compliant pigs? You don't want to shriek prophecy at the disbelieving masses and be run out of town? Or lead a nearly incontrollable warband which is at turns murderous and stupid? Fuck you.
 
 Plus I wanted to experiment.
 
@@ -130,13 +130,19 @@ Cast bones or sticks and beseech the fates to reveal your near future. You gain 
 
 Our prophet became a madman.
 
-It was actually 🧑‍🍳 chefs kiss 🧑‍🍳.
-
 Because they had beheld mythic visions (of the Sun myth specifically) and got the rules of the next omen, they were looking for a pair of ragamuffin thieves. And when that omen occured, they fell upon that couple of petty vegetable poachers and threatened them at knifepoint, raving about moles, Apollyon, and the setting sun.
 
 It was exactly what a crazy person would do. But then again, he was acting on information only he could see.
 
 They eventually bound one of those poor people to a shipmast and sacrificed them to Poseidus, and they took another to the temple of Apollyon and gutted and dismembered them in a most upsetting manner, with much deranged chanting about the Sun.
+
+It worked.
+
+The myth was resolved.
+
+The sun set again.
+
+Primacy of Action, baby.
 
 I never once felt the urge to give prophets a feat. Their power is information, not violence. I think this is a fit for most ItO games and their approach to information design.
 
@@ -162,4 +168,4 @@ Come on. A naive follower, a temperamental follower, and an ambitious follower w
 
 That's the goal anyway.
 
-If this bears any similarities to the Harrier playbook in Apocalypse World, which I definitely did not run a 6-session campaign for, and it was awesome, and the Harrier kept using their warband to blow holes in shit, I can assure you this is completely coincidental.
+If this bears any similarities to the Harrier playbook in Apocalypse World, which I definitely did not run a 6-session campaign for, and it wasn't awesome, and the Harrier didn't keep using their warband to blow holes in shit, I can assure you this is completely coincidental.
