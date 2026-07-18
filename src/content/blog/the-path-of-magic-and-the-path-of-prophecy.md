@@ -4,7 +4,6 @@ description: 'There is more to Homeric epic than the shedding of blood. Ripping 
 pubDate: 'Jul 18 2026'
 series: 'Sailing Under Wine-Dark Skies'
 tags: ['campaign-design', 'mythic-bastionland', 'osr', 'magic', 'mechanics']
-heroImage: '../../assets/posts/path-of-magic/circe-offering-cup.jpg'
 ---
 
 There is more to Homeric epic than the shedding of blood.
@@ -23,7 +22,7 @@ So they don't get Smite, Deny, or Focus. They get their own "things" instead.
 
 ## Wondrous and Horrible Spells of the Path of Mageia
 
-![Circe Invidiosa, John William Waterhouse, 1892 (Wikimedia Commons, public domain)](../../assets/posts/path-of-magic/circe-invidiosa.jpg)
+![The Path of Mageia reference sheet](../../assets/posts/path-of-magic/path-of-mageia-sheet.jpg)
 
 I ripped the list from various Glog and Knave sources. Then I just bent it to fit the setting. In the OSR magic is a problem solving / utility tool. So we've got charms. We've got invisibility. We've got polymorph. We've got self to snakes.
 
@@ -101,8 +100,6 @@ And they know.
 
 They know exactly what you did to them.
 
-![Circe and Her Swine, Briton Rivière, 1896 (Wikimedia Commons, public domain)](../../assets/posts/path-of-magic/circe-and-her-swine.jpg)
-
 So sure, you CAN build a ~~slave empire~~ network of charmed allies and you CAN charm the king...
 
 But tick tock motherfucker.
@@ -113,7 +110,7 @@ With these new rules the sorceress was attempting to charm her way past an encam
 
 # The Path of Prophecy
 
-![Priestess of Delphi, John Collier, 1891 (Wikimedia Commons, public domain)](../../assets/posts/path-of-magic/priestess-of-delphi.jpg)
+![The Path of Prophecy reference sheet](../../assets/posts/path-of-magic/path-of-prophecy-sheet.jpg)
 
 Prophecy isn't magic. Prophets have prophetic Visions instead. They can use one per day. There's no roll.
 
@@ -155,7 +152,7 @@ I never once felt the urge to give prophets a feat. Their power is information, 
 
 # The Path of Command
 
-![Attic red-figure neck-amphora, attributed to the Antimenes Painter (The Met, CC0 Open Access)](../../assets/posts/path-of-magic/warband-amphora.jpg)
+![The Path of Command reference sheet](../../assets/posts/path-of-magic/path-of-command-sheet.jpg)
 
 This was the one I was most concerned about. The verdict is still out. Here's their main "core" ability:
 
@@ -178,3 +175,5 @@ Come on. A naive follower, a temperamental follower, and an ambitious follower w
 That's the goal anyway.
 
 If this bears any similarities to the Harrier playbook in Apocalypse World, which I definitely did not run a 6-session campaign for, and it wasn't awesome, and the Harrier didn't keep using their warband to blow holes in shit, I can assure you this is completely coincidental.
+
+![Charm spell graphic](../../assets/posts/path-of-magic/charm-graphic.jpg)
