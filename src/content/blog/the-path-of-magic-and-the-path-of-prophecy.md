@@ -4,6 +4,7 @@ description: 'There is more to Homeric epic than the shedding of blood. Ripping 
 pubDate: 'Jul 18 2026'
 series: 'Sailing Under Wine-Dark Skies'
 tags: ['campaign-design', 'mythic-bastionland', 'osr', 'magic', 'mechanics']
+heroImage: '../../assets/posts/path-of-magic/circe-offering-cup.jpg'
 ---
 
 There is more to Homeric epic than the shedding of blood.
@@ -21,6 +22,8 @@ And what I landed on is that if I wanted the Sorceress and  the Prophet to have 
 So they don't get Smite, Deny, or Focus. They get their own "things" instead.
 
 ## Wondrous and Horrible Spells of the Path of Mageia
+
+![Circe Invidiosa, John William Waterhouse, 1892 (Wikimedia Commons, public domain)](../../assets/posts/path-of-magic/circe-invidiosa.jpg)
 
 I ripped the list from various Glog and Knave sources. Then I just bent it to fit the setting. In the OSR magic is a problem solving / utility tool. So we've got charms. We've got invisibility. We've got polymorph. We've got self to snakes.
 
@@ -98,6 +101,8 @@ And they know.
 
 They know exactly what you did to them.
 
+![Circe and Her Swine, Briton Rivière, 1896 (Wikimedia Commons, public domain)](../../assets/posts/path-of-magic/circe-and-her-swine.jpg)
+
 So sure, you CAN build a ~~slave empire~~ network of charmed allies and you CAN charm the king...
 
 But tick tock motherfucker.
@@ -107,6 +112,8 @@ With these new rules the sorceress was attempting to charm her way past an encam
 ---
 
 # The Path of Prophecy
+
+![Priestess of Delphi, John Collier, 1891 (Wikimedia Commons, public domain)](../../assets/posts/path-of-magic/priestess-of-delphi.jpg)
 
 Prophecy isn't magic. Prophets have prophetic Visions instead. They can use one per day. There's no roll.
 
@@ -147,6 +154,8 @@ Primacy of Action, baby.
 I never once felt the urge to give prophets a feat. Their power is information, not violence. I think this is a fit for most ItO games and their approach to information design.
 
 # The Path of Command
+
+![Attic red-figure neck-amphora, attributed to the Antimenes Painter (The Met, CC0 Open Access)](../../assets/posts/path-of-magic/warband-amphora.jpg)
 
 This was the one I was most concerned about. The verdict is still out. Here's their main "core" ability:
 
