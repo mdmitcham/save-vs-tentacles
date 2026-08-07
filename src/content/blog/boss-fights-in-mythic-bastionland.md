@@ -85,8 +85,8 @@ First, telegraph it in the fiction before the pool runs out. Let them see the th
 
 Second, the transformation consumes an entire round. During that round each knight chooses one of:
 
-- **Recover Guard**, up to half their total. If they haven't been hurt, this is worth nothing, and they should do something else.
-- **Regain one spent Feat.** Roll a save using whichever Virtue they think fits. Want Smite back? Roll VIG. Success is not guaranteed, and it's one Feat, not all three.
+- **Recover Guard**, up to half their total. If they haven't been hurt, they should do something else.
+- **Regain one spent Feat.** Roll a save using whichever Virtue. Want Smite back? Roll VIG. Want Deny? Roll Spirit.
 - **One other meaningful action.** Stabilize a Mortally Wounded ally, reposition, retrieve a dropped weapon, whatever they invent.
 
 Attacking the transforming monster accomplishes basically nothing, but they're welcome to try.
@@ -118,19 +118,17 @@ Small Jimithus is an evasion problem. He negates a hit every round, he turns you
 
 You solve him with volume and positioning.
 
-Large Jimithus doesn't care about any of that. He fights as a Warband, which means your ordinary attacks are nearly worthless, and 3d10 will murder you. Everything the party figured out in round one is now the wrong answer.
+Large Jimithus doesn't care about any of that. He fights as a Warband, which means your ordinary attacks are nearly worthless, and 3d10 will murder you. Everything the party figured out in round one is now wrong.
 
 That's the point. Round three should feel nothing like round one.
 
 ## The Warrior of the Grove
 
-Here's a second one, same trick, completely different shape.
+In the Teitanblood Islands the party went into the ruined monument of Grey-Eyed Athys. They had to fight their way in through snake people, who are the cursed remnants of an old warband that got sent there and never came home, but that's neither here nor there.
 
-In the Titanbolt Islands the party went into the ruined monument of Grey-Eyed Athys. They had to fight their way in through snake people, who are the cursed remnants of an old warband that got sent there and never came home, but that's neither here nor there.
+Deep inside, an olive tree has grown up through the temple. Something was set to guard it. The Warrior of the Grove was very old by the time the party found him, folded down into the roots and grown over, in the manner of Heide Knights. He unfolded himself and offered battle.
 
-Deep inside, an olive tree has grown up through the temple. Something was set to guard it. The Warrior of the Grove was very old by the time the party found him, folded down into the roots and grown over, in the manner of the knights you find sitting in *Dark Souls II*. They approached. He unfolded himself and offered battle.
-
-When they mortally wounded him he came apart into the Warrior of the Swarm, a mass of serpents that bit and grappled and threw blast damage across the whole party.
+When they mortally wounded him he came apart into the Warrior of the Swarm, a mass of serpents that bit and grappled.
 
 ### Warrior of the Grove
 
@@ -145,16 +143,9 @@ When they mortally wounded him he came apart into the Warrior of the Swarm, a ma
 
 - Bite (1d8 blast), Grapple (d4 blast)
 - Anyone taking damage from the grapple cannot move on their next turn, barring some gambit.
+- Cannot be harmed except by Blast
 
-Now look at what did *not* change. Same Guard, same VIG, same CLA, same SPI. Every number is identical.
-
-The armor comes off and the damage gets *smaller*. The spear was 2d8 hefty. The bite is 1d8. On paper phase two is a downgrade.
-
-Except both attacks are blast now, so they land on everyone at once instead of on whoever is standing in front. And the grapple holds you: take damage from it and you aren't moving next turn unless you can invent your way out. Phase one is a duelist who fights one knight at a time, in the way knights expect and prefer to be fought. Phase two hits the entire party, pins them where they stand, and has no armor left to care about.
-
-He gets easier to hurt and much harder to get away from.
-
-That's the whole thing, really. The second pool doesn't have to be bigger. It has to be a different problem.
+Different problem entirely.
 
 ## The principle
 
